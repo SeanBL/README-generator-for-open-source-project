@@ -32,22 +32,26 @@ inquirer
     .prompt([
         {
             type: 'input',
-            title: 'title',
+            name: 'title',
             message: 'Type the title of your project',
         },
         {
             type: 'input',
-            description: 'description',
-            message: 'What was your motivation for this project?'
-        }
+            name: 'description',
+            message: 'What was your motivation for this project?',
+        },
     ])
-    
+.then((response) => {
+    const readmeContent = generateReadMe(response);
 
 // TODO: Create a function to write README file
-fs.writeToFile('README.md', readmeContent, (err) => err ? console.log(err) : console.log("README.md created!"));
+fs.writeFile('README.md', readmeContent, (err) => err ? console.log(err) : console.log("README.md created!"));
+
+});    
+
 
 // TODO: Create a function to initialize app
-function init() {}
+//function init() {}
 
 // Function call to initialize app
-init();
+//init();
