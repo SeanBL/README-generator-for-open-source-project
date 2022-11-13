@@ -17,12 +17,12 @@ ${description}
 
 ## Table of Contents
 
-1. Installation
-2. Usage
-3. License
-4. How to contribute
-5. Tests
-6. Questions
+- [Installation](#installation)
+- [Usage](#usage)
+- [License](#license)
+- [How to contribute](#how-to-contribute)
+- [Tests](#tests)
+- [Questions](#questions)
 
 ## Installation
 ${installation}
