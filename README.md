@@ -18,7 +18,10 @@ The  purpose of the project was to build an application in Javascript that could
 To properly run this application, clone a copy of the repository from GitHub. Next, install inquirer by typing "npm install inqurier@8.2.4". In the terminal, navigate to the directory where the index.js file is located. In the terminal, type "node index.js". The README generator prompt should begin by asking the user for the project title. Answer all the questions in the prompt and a README file should be generated with all  the user's input. Here is a link to the GitHub repository: https://github.com/SeanBL/README-generator-for-open-source-project
 
 ## Usage
-Here is a sample video of how the README generator works:
+Click on the link below for a video demo on how to use the terminal to generate a README.md file.
+
+https://youtu.be/lJD172J6-2U
+
 
 ## License
 MIT License
