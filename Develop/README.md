@@ -1,9 +1,9 @@
 
-# hh 
-  [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+# zz 
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
-hh 
+zz 
 
 ## Table of Contents
 
@@ -15,23 +15,25 @@ hh
 - [Questions](#questions)
 
 ## Installation
-hh
+zz
 
 ## Usage
-hh
+zz
 
 ## License
-GNU GPLv3
+MIT License
+
+A short and simple permissive license with conditions only requiring preservation of copyright and license notices. Licensed works, modifications, and larger works may be distributed under different terms and without source code. Refer to link for more details: https://choosealicense.com/licenses/mit/
 
 ## How to Contribute
-hh
+zz
 
 ## Tests
-hh
+zz
 
 ## Questions
 Feel free to view and contribute to my work on GitHub.
-https://github.com/hh
+https://github.com/zz
 
 For additional questions, can also reach me through my email address here:
-hh
+zz
